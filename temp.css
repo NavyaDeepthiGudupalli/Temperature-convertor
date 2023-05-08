@@ -1,0 +1,40 @@
+.image{
+    background-image: url("https://www.pictshare.net/store/8f6f9ae02c.png");
+    height:100vh;
+    width:100vw;
+    background-size: cover;
+    padding:30px;
+    
+}
+.heading{
+    color:rgb(18, 243, 217);
+    text-align: center;
+    font-style: italic;
+    padding:50px;
+    font-size:50px;
+    font-weight: 700;
+}
+.dropdownclass{
+    width:470px !important;
+
+}
+.fromclass{
+    color:rgb(250, 249, 250);
+    font-size:30px;
+    font-weight:600;
+    padding:8px;
+
+}
+.fromtocontainer{
+    padding:60px;
+}
+.inputcontainer{
+    padding:10px;
+    
+}
+.convertbutton{
+    margin-left:40vw;
+    width:8vw;
+    height:8vh;
+
+}
